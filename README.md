@@ -1,5 +1,7 @@
 # **Watcher**
 
+![ic_cat_round](https://user-images.githubusercontent.com/62435399/219267573-3853a3fd-a0d1-40ec-9e9e-b890abd91fdb.png)
+
 ![GitHub stars](https://img.shields.io/github/stars/C-Paola/Watcher?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/C-Paola/Watcher?label=Fork&style=social)
 
@@ -18,6 +20,10 @@ Make sure you have Java and Android Studio.
 
 # Running the code
 To run the project you must open the folder using [Android Studio](https://developer.android.com/studio), then you build the project and run it using that software, or you can build an APK.
+
+# Screenshots
+
+<img src="https://user-images.githubusercontent.com/62435399/219267939-e98128ac-d6f8-4f8a-9237-983a0433adb9.png" width="800">
 
 # Authors
 - [Paola Castro](https://github.com/C-Paola)
