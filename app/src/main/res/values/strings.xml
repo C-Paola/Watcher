@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DHT11ESP8266FirebaseJava</string>
+    <string name="title_main">DHT11 ESP8266</string>
+    <string name="sub_title_main">Firebase Java</string>
+    <string name="all">TODO</string>
+    <string name="title_temperature">Temperatura</string>
+    <string name="title_humidity">Humedad</string>
+    <string name="temperature">28 C°</string>
+    <string name="humidity">75 %</string>
+</resources>
