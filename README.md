@@ -13,7 +13,7 @@
 ![Made from](https://img.shields.io/badge/From-Colombia-Yellow)
 
 
-Android application that monitors temperature, humidity and CO using the DHT22 Y MQ-9 sensor. It is also capable of turning on and off a buzzer and an LED that simulate an alarm. It uses a [Firebase database](https://firebase.google.com/?hl=es), which is not available anymore, so it will display the latest measurement it took before it was taken down.
+Android application that monitors temperature, humidity and CO using the DHT22 Y MQ-9 sensor. It is also capable of turning on and off a buzzer and a LED that simulate an alarm. It uses a [Firebase database](https://firebase.google.com/?hl=es), which is not available anymore, so it will display the latest measurement it took before it was taken down.
 
 # Requirements
 Make sure you have Java and Android Studio.
